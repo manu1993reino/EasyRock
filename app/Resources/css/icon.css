@@ -1,0 +1,36 @@
+.icon-home{
+    width: 50px;
+    height: 50px;
+    background-image: url(..Resources/pictures/icon-pagina-de-inicio.png);
+}
+.icon-data{
+    width: 20px;
+    height: 20px;
+    background-image: url(../pictures/icon-perfil-personal.png);
+}
+.icon-reserva{
+    width: 20px;
+    height: 20px;
+    background-image: url(../pictures/icon-reserva.png);
+}
+.icon-nosotros{
+    width: 20px;
+    height: 20px;
+    background-image: url(../pictures/icon-nosotros.png);
+}
+.icon-locales{
+    width: 20px;
+    height: 20px;
+    background-image: url(../pictures/icon-locales.png);
+}
+.icon-cierre{
+    width: 20px;
+    height: 20px;
+    background-image: url(../pictures/icon-cierre-sesion.png);
+}
+
+.icon-menu{
+    width: 50px;
+    height: 50px;
+    background-image: url(..Resources/pictures/icon-menu-desplegable.png);
+}
